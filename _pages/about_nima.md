@@ -45,4 +45,4 @@
 <p>I like travelling to new countries and learning about different cultures. Spending time in nature and hiking are my favourite activities.</p>
 
 <p>Book a 15 minutes meeting with me:</p>
-<button class="button-62" role="button" href="https://calendly.com/nimamasoumi1/15min">Let's Talk</button>
+<button class="button-62" role="button" onclick="location.href='https://calendly.com/nimamasoumi1/15min'">Let's Talk</button>

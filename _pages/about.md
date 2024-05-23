@@ -60,7 +60,7 @@ social: true # includes social icons at the bottom of the page
 <br>
 <p>Do you have a groundbreaking idea but need help bringing it to life?</p>
 
-<button class="button-62" role="button" href="https://calendly.com/nimamasoumi1/15min">Get a free estimate</button>
+<button class="button-62" role="button" onclick="location.href='https://calendly.com/nimamasoumi1/15min'">Get a free estimate</button>
 <br>
 <br style="line-height:5">
 <p>We specialize in helping individuals and businesses turn their innovative concepts into reality. Whether you require expertise in <b>research and development (R&D)</b>, <b>robotics</b>, <b>computer vision</b>, or <b>software development</b>, we offer a comprehensive suite of services to bridge the gap between vision and execution.</p>
@@ -91,7 +91,7 @@ social: true # includes social icons at the bottom of the page
 
 <p>Contact us today for a free consultation and let's discuss how we can help you turn your vision into reality!</p>
 
-<button class="button-62" role="button" href="https://calendly.com/nimamasoumi1/15min">Get a free estimate</button>
+<button class="button-62" role="button" onclick="location.href='https://calendly.com/nimamasoumi1/15min'">Get a free estimate</button>
 </div>
 <br>
 <br style="line-height:5">
