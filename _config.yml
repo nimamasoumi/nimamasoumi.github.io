@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: RnDi
 middle_name:
 last_name: Solutions
-email: nimamasoumi1@gmail.com
+email: nima.masoumi@rndi.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Your one-stop consulting for R&D, robotics, computer vision, and software development
 footer_text: >
