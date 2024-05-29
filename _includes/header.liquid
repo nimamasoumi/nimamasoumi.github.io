@@ -5,10 +5,10 @@
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {% if site.title == 'blank' %}
-            {% if site.first_name %}
+            {% if site.first_name %}            
               <span class="font-weight-bold">
                 <img src="/assets/img/icon3.png" style="width:10%;height:10%;float:left">{{- site.first_name -}}
-              </span>
+              </span>                         
             {% endif %}
             {% if site.middle_name %}
               {{- site.middle_name -}}
