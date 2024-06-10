@@ -56,14 +56,14 @@ social: true # includes social icons at the bottom of the page
 <div style="text-align:center">
 <br>
 
-<h3>Continue Creativity: <br>Your one-stop consulting for R&D in <br>robotics, computer vision, and software development</h3>
+<h3>Continue Creativity: <br>Your one-stop consulting for R&D in <br>software development, artificial intelligence, and robotics</h3>
 <br>
 <p>Do you have a groundbreaking idea but need help bringing it to life?</p>
 
 <button class="button-62" role="button" onclick="location.href='https://calendly.com/nimamasoumi1/15min'">Get a free estimate</button>
 <br>
 <br style="line-height:5">
-<p>We specialize in helping individuals and businesses turn their innovative concepts into reality. Whether you require expertise in <b>research and development (R&D)</b>, <b>robotics</b>, <b>computer vision</b>, or <b>software development</b>, we offer a comprehensive suite of services to bridge the gap between vision and execution.</p>
+<p>We specialize in helping individuals and businesses turn their innovative concepts into reality. Whether you require expertise in <b>research and development (R&D)</b>, <b>software development</b>, <b>artificial intelligence</b>, or <b>robotics</b>, we offer a comprehensive suite of services to bridge the gap between vision and execution.</p>
 
 <img src="/assets/img/tri.png" style="width:71%;height:71%;">
 <br>

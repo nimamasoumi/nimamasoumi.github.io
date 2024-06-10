@@ -8,10 +8,10 @@ middle_name:
 last_name: Solutions
 email: nima.masoumi@rndi.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Your one-stop consulting for R&D, robotics, computer vision, and software development
+  Your one-stop consulting for R&D, software development, artificial intelligence, and robotics.
 footer_text: >
 
-keywords: R&D, Research and development, Robotics, Computer Vision, Software Development # add your own keywords or leave empty
+keywords: R&D, Research and development, Software Development, Artificial Intelligence, Robotics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: icon3.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -128,7 +128,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: RnDi Solutions # blog_name will be displayed in your blog page
-blog_description:  Your one-stop consulting for R&D, robotics, computer vision, and software development
+blog_description:  Your one-stop consulting for R&D, software development, artificial intelligence, and robotics.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
